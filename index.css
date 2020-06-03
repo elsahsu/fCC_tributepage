@@ -1,0 +1,56 @@
+body{
+  background-color: rgb(185,151,91);
+  color: rgb(89,86,65);
+  text-align: center;
+  font-family: Verdana;
+}
+#title{
+  font-size:50px;
+  text-align: left;
+  color: white;
+}
+#img-caption{
+  font-size:15px;
+  font-weight: bold;
+}
+#column {
+  display: block;
+  margin: auto;
+  width:30%;
+}
+#tribute-info{
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+#img-div {
+  background-color: rgb(206,184,136);
+}
+#events{
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Arial;
+  text-align: left;
+  padding: 5px, 20px, 50px, 20px;
+}
+#quote{
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Arial;
+}
+
+#see_also{
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Arial;
+}
+
+#image {
+  display: block;
+  width: 90%;
+  max-width: 393px;
+  margin: auto;
+}
